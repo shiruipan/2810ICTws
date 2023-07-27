@@ -1,3 +1,1 @@
-This is a tet file.
-
-Let us add a line
+This is a test file.
